@@ -411,4 +411,22 @@ height: 300px;}
         } 
      
         
-   
+        .footer .footer-bottom{
+            background: #343a40;
+            color: #686868;
+            height: 50px;
+            width: 100%;
+            text-align: center;
+            margin-top: 20px;
+            bottom: 0px;
+            left: 0px;
+            padding-top: 20px;
+            
+        }
+        .testo{
+            color: #343a40 ;
+        }
+        .testo h1{
+    text-align: center;
+    
+        }
