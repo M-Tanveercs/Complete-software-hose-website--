@@ -287,3 +287,128 @@ text-shadow: 2px 2px lightskyblue;
     margin-top: 30px;
     margin-left: 60px;
 }
+
+#b3
+{ 
+padding: 3px;
+border: 1px solid black;
+margin-top: 60px;
+margin-left: 140px;
+display: inline-block;
+width: 300px;
+height: 300px;}
+#b4{
+   
+    padding: 3px;
+    border: 1px solid black;
+    margin-top: 60px;
+    margin-left: 100px;
+    
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    }
+         
+    
+#b5{
+   
+    padding: 3px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    }
+      
+#b6{
+   
+    padding: 3px;
+    border: 1px solid black;
+    margin-top: 160px;
+    margin-left: 140px;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    }
+    #b7{
+       
+        padding: 3px;
+        border: 1px solid black;
+        margin-top: 20px;
+        margin-left: 100px;
+        
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        }
+             
+        
+    #b8{
+       
+        padding: 3px;
+        border: 1px solid black;
+        margin-top: 20px;
+        margin-left: 100px;
+        
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        }
+        
+#b9{
+   
+    padding: 3px;
+    border: 1px solid black;
+    margin-top: 160px;
+    margin-left: 140px;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    }
+    #b10{
+       
+        padding: 3px;
+        border: 1px solid black;
+        margin-top: 20px;
+        margin-left: 100px;
+        
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        }
+             
+        
+    #b11{
+       
+        padding: 3px;
+        border: 1px solid black;
+        margin-top: 20px;
+        margin-left: 100px;
+        
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+         }  
+        .text1:hover{
+            background:url(imges/student-849825_1920.jpg) ;
+           
+            background-position: center;
+            transition: 4s;
+        } 
+        .text2:hover{
+            background:url(imges/laptop-1209008_1280.jpg) ;
+            background-size: cover;
+            background-position: center;
+            transition: 4s;
+        }
+        .text3:hover{
+            background:url(imges/laptop-336373_1920.jpg) ;
+           
+            background-position: center;
+            transition: 4s;
+        } 
+     
+        
+   
