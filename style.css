@@ -7,3 +7,23 @@ font-family: 'Texturina', serif;
 
 
 }
+body {overflow-x:hidden}
+
+#i1{
+
+    width: 1350px;
+    height: 100px;
+}
+.hero_image{
+    background-image: url(imges/laptop-3174729_1920.jpg);
+
+    
+    transition: 4s;
+    background-position: center;
+background-color: teal;
+   height: 100vh;
+position: relative; 
+background-repeat: no-repeat;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Canta ;
+}
